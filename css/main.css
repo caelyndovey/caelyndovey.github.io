@@ -1,9 +1,20 @@
-h1 {
+div.header {
 	text-align: center;
+	text-transform: uppercase;
+	font: Arial;
+	font-size:16px;
 }
 
 body{
 	background-color:#f4ebf1;
 	color:#7c7b7c;
-	font: Arial;
+}
+
+.image{
+	display: block;
+	width: 100px;
+	height: 120px;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
