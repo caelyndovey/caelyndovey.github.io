@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+body{
+	background-color:#f4ebf1;
+	color:#7c7b7c;
+	font: Arial;
+	font-size:16px;
+}
+
+.image{
+	display: block;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
