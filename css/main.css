@@ -16,7 +16,8 @@ div.pages {
 
 .image{
 	display: block;
-	
+	max-height: 50%;
+	max-width:50%;
 	border-radius: 50%;
 	margin-left: auto;
 	margin-right: auto;
