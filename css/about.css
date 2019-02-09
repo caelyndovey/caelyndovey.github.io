@@ -1,9 +1,11 @@
 body{
+	font-size:15px;
 	background-color:#fee4ee;
 	color:#7c7b7c;
+	font-weight: bold;
 }
 
-div.header {
+div.header{
 	text-align: center;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 	font-size:20px;
