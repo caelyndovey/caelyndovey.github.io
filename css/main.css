@@ -11,11 +11,12 @@ body{
 	color:#7c7b7c;
 }
 
-a{
+a:link, a:visited{
 	text-decoration: none;
+	color:#7c7b7c;
 }
 
-div.pages {
+div.pages{
 	color:#7c7b7c;
 	text-align: center;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
