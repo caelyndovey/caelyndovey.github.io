@@ -2,4 +2,16 @@ body{
 	font-size:15px;
 	background-color:#fee4ee;
 	color:#7c7b7c;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+div.contact{
+	text-align: center;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 }
