@@ -9,9 +9,11 @@ h1{
 	text-align: center;
 	text-transform: uppercase;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	margin-bottom:-30px;
 }
 
 div.contact{
 	text-align: center;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	font-size:20px;
 }
