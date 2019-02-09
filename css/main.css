@@ -1,13 +1,13 @@
 div.header {
 	text-align: center;
 	text-transform: uppercase;
-	font: Arial;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 	font-size:25px;
 	margin-bottom:-30px;
 }
 
 body{
-	background-color:##FEE4EE;
+	background-color:#fee4ee;
 	color:#7c7b7c;
 }
 
@@ -18,7 +18,7 @@ a{
 div.pages {
 	color:#7c7b7c;
 	text-align: center;
-	font: Arial;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 	font-size: 20px;
 	margin-bottom: 15px;
 }
