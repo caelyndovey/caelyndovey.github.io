@@ -10,6 +10,10 @@ body{
 	color:#7c7b7c;
 }
 
+a{
+	text-decoration: none;
+}
+
 div.pages {
 	color:#7c7b7c;
 }
