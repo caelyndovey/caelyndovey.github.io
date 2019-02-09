@@ -8,16 +8,16 @@ div.header {
 
 body{
 	background-color:#fee4ee;
-	color:#7c7b7c;
+	color:#787887;
 }
 
 a:link, a:visited{
 	text-decoration: none;
-	color:#7c7b7c;
+	color:#787887;
 }
 
 div.pages{
-	color:#7c7b7c;
+	color:#787887;
 	text-align: center;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 	font-size: 20px;
